@@ -6,9 +6,9 @@ as a developer, people say wkwkw
 
 Plunging into the world of programming accidentally opened my eyes to extraordinary potential. The more I delve into this field, the more obsessed I become with mastering the knowledge. I want to continue learning and developing so I can create innovative solutions through programming.
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [andi.agung@unismuh.ac.id](mailto:andi.agung@unismuh.ac.id)
-* 🧠  I'm learning Machine Learning
+* 🌍  Indonesia
+* ✉️  contact me at [andi.agung@unismuh.ac.id](mailto:andi.agung@unismuh.ac.id)
+* 🧠  I'm learning Machine Learning (python and js)
 * ⚡  i'm secretly a wizard.. but don't tell anyone wkwkw
 
 <a href="https://www.github.com/devnolife" target="_blank" rel="noreferrer"><img
