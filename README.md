@@ -1,6 +1,6 @@
-Hi , Im Andi Agung
+<a href="https://app.daily.dev/devnolife_"><img src="https://api.daily.dev/devcards/v2/niwwS9fB7WigvW6sAPRSR.png?type=wide&r=b0f" width="652" alt="devnolife's Dev Card"/></a>
+i'm Andi Agung
 ==================================================================================================================================
-
 as a developer, people say wkwkw
 --------------
 
@@ -34,7 +34,6 @@ src="https://img.shields.io/github/followers/devnolife?logo=github&style=for-the
 
 <a href="http://www.github.com/devnolife"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devnolife&stroke=ffffff&background=171717&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/devnolife" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnolife&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
