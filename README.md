@@ -16,25 +16,22 @@ Plunging into the world of programming accidentally opened my eyes to extraordin
 src="https://img.shields.io/github/followers/devnolife?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
 
 ### codetime
-# Development Activity Overview
+# 🛠️ Development Activity Overview
 
-## Language Usage
-- **JavaScript**: 31 hrs 35 mins
-- **TypeScript**: 13 hrs 54 mins
-- **C#**: 9 hrs 47 mins
-- **Markdown**: 1 hr 59 mins
-- **Prisma**: 1 hr 45 mins
+## 🗣️ Language Usage
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**: 31 hrs 35 mins
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript**: 13 hrs 54 mins
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **C#**: 9 hrs 47 mins
+- ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) **Markdown**: 1 hr 59 mins
+- ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) **Prisma**: 1 hr 45 mins
 
-## Project Contributions
+## 📁 Project Contributions
 - **chasir-system**: 18 hrs 2 mins
 - **backend**: 12 hrs 13 mins
 - **dashboard**: 9 hrs 9 mins
-- **pulupulu**: 5 hrs 12 mins
-- **My project (1)**: 4 hrs 28 mins
 
-## Platform
-- **Windows 11**: 62 hrs 33 mins
-- **Linux Ubuntu**: 43 hrs 33 mins
+## 💻 Platform
+- ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white) **Windows 11**: 62 hrs 33 mins
 
 ### Skills
 
